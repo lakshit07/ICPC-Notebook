@@ -1,38 +1,38 @@
 # ICPC-Notebook
 
-# Data Structures
-Fenwick Tree
-Segment Tree (Lazy Propogation)
-Trie (Simple, Binary)
-DSU
-Sparse Table
+## Data Structures
+Fenwick Tree <br/>
+Segment Tree (Lazy Propogation) <br/>
+Trie (Simple, Binary) <br/>
+DSU <br/>
+Sparse Table <br/>
 
-# Graphs
-Kruskal
-Prim
-Topological Sort
-Dijkstra
-Articulation Points
-Floyd Warshall
-SCC
-Bridge Tree
+## Graphs
+Kruskal <br/>
+Prim <br/>
+Topological Sort <br/>
+Dijkstra <br/>
+Articulation Points <br/>
+Floyd Warshall <br/>
+SCC <br/>
+Bridge Tree <br/>
 
-# Trees
-LCA
+## Trees
+LCA <br/>
 
-# Strings
-Manacher
+## Strings
+Manacher <br/>
 
-# Number Theory
-Sieve
-Segmented Sieve
-Prime Factors using sieve
-nCr
-ETF (simple, sieve)
+## Number Theory
+Sieve <br/>
+Segmented Sieve <br/>
+Prime Factors using sieve <br/>
+nCr <br/>
+ETF (simple, sieve) <br/>
 
-# Misc
-Mo
-Square Root Decomposition
-Mobius
-Fibonacci Fast Doubling
-Running Median
+## Misc
+Mo <br/>
+Square Root Decomposition <br/>
+Mobius <br/>
+Fibonacci Fast Doubling <br/>
+Running Median <br/>
