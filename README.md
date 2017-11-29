@@ -21,6 +21,7 @@ Bridge Tree <br/>
 LCA <br/>
 
 ## Strings
+KMP <br/>
 Manacher <br/>
 
 ## Number Theory
@@ -36,3 +37,9 @@ Square Root Decomposition <br/>
 Mobius <br/>
 Fibonacci Fast Doubling <br/>
 Running Median <br/>
+Circumcircle <br/>
+Modulus tricks <br/>
+Matrix multiplication <br/>
+Modular exponenetiation <br/>
+Stock span <br/>
+Use of set <br/>
