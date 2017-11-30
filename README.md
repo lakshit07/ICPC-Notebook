@@ -20,8 +20,11 @@ Bridge Tree
 # Trees
 LCA
 
+# Searching
+Ternary
+
 # Strings
-Manacher
+Manachar
 
 # Number Theory
 Sieve
@@ -36,3 +39,4 @@ Square Root Decomposition
 Mobius
 Fibonacci Fast Doubling
 Running Median
+Policy Based DS
